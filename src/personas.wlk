@@ -58,11 +58,9 @@ object bruno {
 		self.comerFideos()
 		self.tomarAgua()
 		self.verNoticias()
+		tumujer
 	}
 }
-
-
-
 
 object ramiro{
 	
@@ -96,23 +94,3 @@ object ramiro{
 		self.bajarAFosa()
 	}
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
